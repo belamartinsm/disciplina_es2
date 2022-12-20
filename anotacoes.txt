@@ -1,2 +1,7 @@
 Isabela Martins
+<<<<<<< HEAD
 Engenharia de Software 2
+=======
+
+Tive muita dificuldade, mas deu certo no final
+>>>>>>> feedback
